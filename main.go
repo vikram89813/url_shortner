@@ -8,7 +8,6 @@ import (
 	mr "github.com/vikram89813/url_shortner/repository/mongo"
 	rr "github.com/vikram89813/url_shortner/repository/redis"
 	"github.com/vikram89813/url_shortner/shortener"
-	"github.com/vikram89813/url_shortner/shortener"
 	"log"
 	"net/http"
 	"os"
